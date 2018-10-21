@@ -2,7 +2,7 @@ CXX = g++
 CXXFLAGS = -O2 -g -Wall
 LDFLAGS = -lpthread
 
-OBJS = *.cpp
+OBJS = *.c
 
 TARGET = module
 
